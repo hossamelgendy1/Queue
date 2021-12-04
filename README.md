@@ -9,7 +9,3 @@ Project is done for the Data Structures course in FCAI-CU as a team project.
 
 - OOP
 - Data Structures
-
-### Credits
-
-- Stack class is implemented by my colleague, Abdullah Ellithy.
